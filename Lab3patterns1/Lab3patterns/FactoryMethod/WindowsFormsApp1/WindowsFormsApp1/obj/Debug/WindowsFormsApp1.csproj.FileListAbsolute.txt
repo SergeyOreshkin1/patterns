@@ -1,0 +1,55 @@
+F:\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BaseForm.resources
+F:\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PngDocForm.resources
+F:\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TextDocForm.resources
+F:\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Irine\Desktop\3 курс Сергей\Лабы-20211008T050611Z-001\Лабы\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Irine\Desktop\3 курс Сергей\Лабы-20211008T050611Z-001\Лабы\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BaseForm.resources
+C:\Users\Irine\Desktop\3 курс Сергей\Лабы-20211008T050611Z-001\Лабы\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PngDocForm.resources
+C:\Users\Irine\Desktop\3 курс Сергей\Лабы-20211008T050611Z-001\Лабы\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Irine\Desktop\3 курс Сергей\Лабы-20211008T050611Z-001\Лабы\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TextDocForm.resources
+C:\Users\Irine\Desktop\3 курс Сергей\Лабы-20211008T050611Z-001\Лабы\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Irine\Desktop\3 курс Сергей\Лабы-20211008T050611Z-001\Лабы\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Irine\Desktop\3 курс Сергей\Лабы-20211008T050611Z-001\Лабы\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Irine\Desktop\3 курс Сергей\Лабы-20211008T050611Z-001\Лабы\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+F:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BaseForm.resources
+F:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PngDocForm.resources
+F:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TextDocForm.resources
+F:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+F:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+H:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BaseForm.resources
+H:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PngDocForm.resources
+H:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TextDocForm.resources
+H:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\4 курс\Lab3\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\4 курс\Lab3patterns\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\4 курс\Lab3patterns\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\4 курс\Lab3patterns\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\4 курс\Lab3patterns\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+F:\4 курс\Lab3patterns\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BaseForm.resources
+F:\4 курс\Lab3patterns\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PngDocForm.resources
+F:\4 курс\Lab3patterns\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\4 курс\Lab3patterns\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TextDocForm.resources
+F:\4 курс\Lab3patterns\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+F:\4 курс\Lab3patterns\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\4 курс\Lab3patterns\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\4 курс\Lab3patterns1\Lab3patterns\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\4 курс\Lab3patterns1\Lab3patterns\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\4 курс\Lab3patterns1\Lab3patterns\FactoryMethod\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

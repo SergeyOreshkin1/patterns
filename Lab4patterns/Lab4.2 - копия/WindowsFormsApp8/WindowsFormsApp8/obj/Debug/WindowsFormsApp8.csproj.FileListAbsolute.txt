@@ -1,0 +1,57 @@
+c:\users\irine\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+c:\users\irine\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+c:\users\irine\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+c:\users\irine\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+c:\users\irine\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+c:\users\irine\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+c:\users\irine\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+c:\users\irine\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+c:\users\irine\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+c:\users\irine\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+c:\users\irine\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
+H:\4 курс\паттерны\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+H:\4 курс\паттерны\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+H:\4 курс\паттерны\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+H:\4 курс\паттерны\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+H:\4 курс\паттерны\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+H:\4 курс\паттерны\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
+H:\4 курс\паттерны\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+H:\4 курс\паттерны\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+H:\4 курс\паттерны\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+H:\4 курс\паттерны\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+H:\4 курс\паттерны\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+F:\4 курс\паттерны\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+F:\4 курс\паттерны\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+F:\4 курс\паттерны\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+H:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+H:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+H:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+H:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+H:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+H:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
+H:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+H:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+H:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+H:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+H:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+F:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+F:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+F:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
+F:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+F:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+F:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+F:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+F:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
+F:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+F:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.Cache
+G:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+G:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+G:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+G:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojAssemblyReference.cache
+G:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+G:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
+G:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+G:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+G:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+G:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+G:\4 курс\паттерны\Lab4patterns\Lab4.2\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb

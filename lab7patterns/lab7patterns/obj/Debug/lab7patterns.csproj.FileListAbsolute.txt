@@ -1,0 +1,7 @@
+C:\Users\Irine\Desktop\lab7patterns\lab7patterns\bin\Debug\lab7patterns.exe.config
+C:\Users\Irine\Desktop\lab7patterns\lab7patterns\bin\Debug\lab7patterns.exe
+C:\Users\Irine\Desktop\lab7patterns\lab7patterns\bin\Debug\lab7patterns.pdb
+C:\Users\Irine\Desktop\lab7patterns\lab7patterns\obj\Debug\lab7patterns.csprojAssemblyReference.cache
+C:\Users\Irine\Desktop\lab7patterns\lab7patterns\obj\Debug\lab7patterns.csproj.CoreCompileInputs.cache
+C:\Users\Irine\Desktop\lab7patterns\lab7patterns\obj\Debug\lab7patterns.exe
+C:\Users\Irine\Desktop\lab7patterns\lab7patterns\obj\Debug\lab7patterns.pdb

@@ -1,0 +1,78 @@
+C:\Users\fenix\source\repos\Prototype2\Prototype2\bin\Debug\Prototype2.exe.config
+C:\Users\fenix\source\repos\Prototype2\Prototype2\bin\Debug\Prototype2.exe
+C:\Users\fenix\source\repos\Prototype2\Prototype2\bin\Debug\Prototype2.pdb
+C:\Users\fenix\source\repos\Prototype2\Prototype2\obj\Debug\Prototype2.csprojAssemblyReference.cache
+C:\Users\fenix\source\repos\Prototype2\Prototype2\obj\Debug\Prototype2.Form1.resources
+C:\Users\fenix\source\repos\Prototype2\Prototype2\obj\Debug\Prototype2.Properties.Resources.resources
+C:\Users\fenix\source\repos\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.GenerateResource.cache
+C:\Users\fenix\source\repos\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.CoreCompileInputs.cache
+C:\Users\fenix\source\repos\Prototype2\Prototype2\obj\Debug\Prototype2.exe
+C:\Users\fenix\source\repos\Prototype2\Prototype2\obj\Debug\Prototype2.pdb
+C:\Users\fenix\source\repos\Prototype2\Prototype2\bin\Debug\PianoSoundLibrary.dll
+C:\Users\fenix\source\repos\Prototype2\Prototype2\bin\Debug\PianoSoundLibrary.pdb
+C:\Users\fenix\source\repos\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.CopyComplete
+C:\Users\fenix\source\repos\Prototype2\Prototype2\bin\Debug\Toub.Sound.Midi.dll
+F:\Lab3\Prototype2\Prototype2\bin\Debug\Prototype2.exe.config
+F:\Lab3\Prototype2\Prototype2\bin\Debug\Prototype2.exe
+F:\Lab3\Prototype2\Prototype2\bin\Debug\Prototype2.pdb
+F:\Lab3\Prototype2\Prototype2\bin\Debug\PianoSoundLibrary.pdb
+F:\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.csprojAssemblyReference.cache
+F:\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.Form1.resources
+F:\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.Properties.Resources.resources
+F:\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.GenerateResource.cache
+F:\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.CoreCompileInputs.cache
+F:\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.CopyComplete
+F:\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.exe
+F:\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.pdb
+D:\Labs\Lab3\Prototype2\Prototype2\bin\Debug\Prototype2.exe.config
+D:\Labs\Lab3\Prototype2\Prototype2\bin\Debug\Prototype2.exe
+D:\Labs\Lab3\Prototype2\Prototype2\bin\Debug\Prototype2.pdb
+D:\Labs\Lab3\Prototype2\Prototype2\bin\Debug\PianoSoundLibrary.pdb
+D:\Labs\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.AssemblyReference.cache
+D:\Labs\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.Form1.resources
+D:\Labs\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.Properties.Resources.resources
+D:\Labs\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.GenerateResource.cache
+D:\Labs\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.CoreCompileInputs.cache
+D:\Labs\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.CopyComplete
+D:\Labs\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.exe
+D:\Labs\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.pdb
+C:\Users\Irine\Desktop\3 курс Сергей\Лабы-20211008T050611Z-001\Лабы\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.csprojAssemblyReference.cache
+C:\Users\Irine\Desktop\3 курс Сергей\Лабы-20211008T050611Z-001\Лабы\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.Form1.resources
+C:\Users\Irine\Desktop\3 курс Сергей\Лабы-20211008T050611Z-001\Лабы\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.Properties.Resources.resources
+C:\Users\Irine\Desktop\3 курс Сергей\Лабы-20211008T050611Z-001\Лабы\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.GenerateResource.cache
+C:\Users\Irine\Desktop\3 курс Сергей\Лабы-20211008T050611Z-001\Лабы\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.CoreCompileInputs.cache
+C:\Users\Irine\Desktop\3 курс Сергей\Лабы-20211008T050611Z-001\Лабы\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.exe
+C:\Users\Irine\Desktop\3 курс Сергей\Лабы-20211008T050611Z-001\Лабы\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.pdb
+H:\4 курс\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.csprojAssemblyReference.cache
+H:\4 курс\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.Form1.resources
+H:\4 курс\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.Properties.Resources.resources
+H:\4 курс\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.GenerateResource.cache
+H:\4 курс\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.CoreCompileInputs.cache
+H:\4 курс\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.exe
+H:\4 курс\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.pdb
+F:\4 курс\Lab3\Prototype2\Prototype2\bin\Debug\Prototype2.exe.config
+F:\4 курс\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.exe
+F:\4 курс\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.pdb
+F:\4 курс\Lab3\Prototype2\Prototype2\bin\Debug\Prototype2.exe
+F:\4 курс\Lab3\Prototype2\Prototype2\bin\Debug\Prototype2.pdb
+F:\4 курс\Lab3\Prototype2\Prototype2\bin\Debug\PianoSoundLibrary.pdb
+F:\4 курс\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.csprojResolveAssemblyReference.cache
+F:\4 курс\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.Form1.resources
+F:\4 курс\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.Properties.Resources.resources
+F:\4 курс\Lab3\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.GenerateResource.Cache
+F:\4 курс\Lab3.2\Prototype2\Prototype2\bin\Debug\Prototype2.exe.config
+F:\4 курс\Lab3.2\Prototype2\Prototype2\obj\Debug\Prototype2.exe
+F:\4 курс\Lab3.2\Prototype2\Prototype2\obj\Debug\Prototype2.pdb
+F:\4 курс\Lab3.2\Prototype2\Prototype2\bin\Debug\Prototype2.exe
+F:\4 курс\Lab3.2\Prototype2\Prototype2\bin\Debug\Prototype2.pdb
+F:\4 курс\Lab3.2\Prototype2\Prototype2\bin\Debug\PianoSoundLibrary.pdb
+F:\4 курс\Lab3.2\Prototype2\Prototype2\obj\Debug\Prototype2.csprojResolveAssemblyReference.cache
+F:\4 курс\Lab3.2\Prototype2\Prototype2\obj\Debug\Prototype2.Form1.resources
+F:\4 курс\Lab3.2\Prototype2\Prototype2\obj\Debug\Prototype2.Properties.Resources.resources
+F:\4 курс\Lab3.2\Prototype2\Prototype2\obj\Debug\Prototype2.csproj.GenerateResource.Cache
+F:\4 курс\Lab3patterns\Prototype2\Prototype2\bin\Debug\Prototype2.exe.config
+F:\4 курс\Lab3patterns\Prototype2\Prototype2\obj\Debug\Prototype2.exe
+F:\4 курс\Lab3patterns\Prototype2\Prototype2\obj\Debug\Prototype2.pdb
+F:\4 курс\Lab3patterns1\Lab3patterns\Prototype2\Prototype2\bin\Debug\Prototype2.exe.config
+F:\4 курс\Lab3patterns1\Lab3patterns\Prototype2\Prototype2\obj\Debug\Prototype2.exe
+F:\4 курс\Lab3patterns1\Lab3patterns\Prototype2\Prototype2\obj\Debug\Prototype2.pdb

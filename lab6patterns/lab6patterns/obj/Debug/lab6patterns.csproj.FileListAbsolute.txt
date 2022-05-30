@@ -1,0 +1,13 @@
+C:\Users\Irine\Desktop\3 курс Сергей\lab6patterns\lab6patterns\bin\Debug\lab6patterns.exe.config
+C:\Users\Irine\Desktop\3 курс Сергей\lab6patterns\lab6patterns\bin\Debug\lab6patterns.exe
+C:\Users\Irine\Desktop\3 курс Сергей\lab6patterns\lab6patterns\bin\Debug\lab6patterns.pdb
+C:\Users\Irine\Desktop\3 курс Сергей\lab6patterns\lab6patterns\obj\Debug\lab6patterns.csprojAssemblyReference.cache
+C:\Users\Irine\Desktop\3 курс Сергей\lab6patterns\lab6patterns\obj\Debug\lab6patterns.csproj.CoreCompileInputs.cache
+C:\Users\Irine\Desktop\3 курс Сергей\lab6patterns\lab6patterns\obj\Debug\lab6patterns.exe
+C:\Users\Irine\Desktop\3 курс Сергей\lab6patterns\lab6patterns\obj\Debug\lab6patterns.pdb
+F:\4 курс\паттерны\lab6patterns\lab6patterns\bin\Debug\lab6patterns.exe.config
+F:\4 курс\паттерны\lab6patterns\lab6patterns\obj\Debug\lab6patterns.exe
+F:\4 курс\паттерны\lab6patterns\lab6patterns\obj\Debug\lab6patterns.pdb
+F:\4 курс\паттерны\lab6patterns\lab6patterns\bin\Debug\lab6patterns.exe
+F:\4 курс\паттерны\lab6patterns\lab6patterns\bin\Debug\lab6patterns.pdb
+F:\4 курс\паттерны\lab6patterns\lab6patterns\obj\Debug\lab6patterns.csprojResolveAssemblyReference.cache
